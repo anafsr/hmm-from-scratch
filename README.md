@@ -5,6 +5,7 @@ Implementation of a simple HMM model for a discrete dataset in Python from scrat
 ## Dependancies
 Python > 2.7  
 numpy toolkit
+pandas toolkit
 
 ## Dataset
 The dataset (HMMData.txt) contains 1000 rows of past weather observations. The states (ω) are “sunny”, “rainy” and “foggy”. The emission states are “yes”, “no” indicating if an umbrella was observed.
