@@ -4,7 +4,7 @@ Implementation of a simple HMM model for a discrete dataset in Python from scrat
 
 ## Dependancies
 Python > 2.7  
-numpy toolkit
+numpy toolkit  
 pandas toolkit
 
 ## Dataset
